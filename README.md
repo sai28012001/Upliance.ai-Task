@@ -65,3 +65,10 @@ Recommendations
 9.Operational Efficiency: Analyze operational data to identify bottlenecks and improve efficiency.
 10.User Experience: Prioritize user experience by optimizing the website, app, and overall customer journey.
 By implementing these recommendations, the business can enhance customer satisfaction, increase sales, and drive overall growth.Recommendations
+
+Contact
+For any questions, feel free to reach out:
+
+Name: Thota Sai Babu
+Email: saibabu.thota3@gmail.com
+LinkedIn:https://www.linkedin.com/in/sai-babu-thota-a735881a7/
