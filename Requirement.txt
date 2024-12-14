@@ -1,0 +1,4 @@
+To run the code, you need the following installed:
+
+Python 3.8 or above
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
